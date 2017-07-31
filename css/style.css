@@ -1,0 +1,39 @@
+body{
+    background-color:#9DF9FF;
+}
+
+h1{
+    color:#007D85;
+    border: 5px dotted #FF6363;
+  padding: px;
+ display: block;
+    margin: auto;
+    letter-spacing: 10px;
+}
+
+
+h3{
+    color:#007D85;
+    border: 5px solid #FCF740;
+  padding: px;
+ display: block;
+    margin: auto;
+}
+
+Img {
+   border: 5px solid #FCAE3F;
+  padding: px;
+ display: block;
+    margin: auto;
+}
+
+div{
+    border: 5px dotted #C87CFF;
+  padding: px;
+ display: block;
+    margin: auto;
+}
+
+a{
+    border:5px dotted hotpink;
+}
